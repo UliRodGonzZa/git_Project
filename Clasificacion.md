@@ -44,3 +44,7 @@ Me encanta disfrutar de **caricaturas y shows animados**. Ma favoritas son:
 |------------------------------------|--------------------------------|----------------------|
 | *Daft Punk*                        | *Random Access Memories*       | Electrónica          |
 | *The Beatles*                      | *Abbey Road*                   | Rock                 |
+| Videojuego                       | Desarrollador                 | Género               |
+|------------------------------------|--------------------------------|----------------------|
+| *Gears of War*                     | Epic Games                    | Shooter, Acción      |
+| *The Witcher 3*                    | CD Projekt Red                | RPG, Aventura        |
