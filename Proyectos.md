@@ -38,3 +38,4 @@ Mi segundo proyecto consiste en desarrollar una **aplicación web** utilizando *
 3. Documentar y actualizar continuamente ambas plataformas en Git para asegurar la trazabilidad del proyecto.
 
 # Mis Proyectos
+:)
