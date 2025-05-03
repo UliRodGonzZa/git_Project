@@ -47,3 +47,4 @@ Estoy estudiando **Ingeniería en Computación** en la universidad de la UNAM. E
 
 - [Instagram](https://www.instagram.com/_rodrigogo._?utm_source=qr&igsh=MTRoMThxbWluZDR4OQ==) -
 
+CHAOOO ;)
