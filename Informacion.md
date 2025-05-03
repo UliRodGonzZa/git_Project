@@ -53,3 +53,8 @@ CHAOOO ;)
 - **Lenguajes de programación**: Python, C++, JavaScript
 - **Herramientas de desarrollo**: Git, Docker, Visual Studio Code
 - **Áreas de interés**: Inteligencia Artificial, Desarrollo Web, Diseño Gráfico
+## 🏀 Mis Hobbies
+
+- **Fútbol**: Me encanta practicarlo y ver los partidos.
+- **Cine**: Soy un gran amante del cine de ciencia ficción y acción.
+- **Lectura**: Siempre estoy buscando un buen libro para leer.
