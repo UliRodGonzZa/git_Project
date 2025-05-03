@@ -52,3 +52,7 @@ Me encanta disfrutar de **caricaturas y shows animados**. Ma favoritas son:
 |------------------------------------|--------------------------------|----------------------|
 | *Fantasía*                         | *El Señor de los Anillos*     | J.R.R. Tolkien       |
 | *Realismo Mágico*                  | *Cien años de soledad*         | Gabriel García Márquez |
+| Deporte                          | Popularidad                   | Tipo de actividad    |
+|------------------------------------|--------------------------------|----------------------|
+| *Fútbol*                          | Mundialmente popular          | De equipo            |
+| *Básquetbol*                      | Popular en USA, Europa, Asia  | De equipo            |
