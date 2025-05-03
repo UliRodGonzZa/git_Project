@@ -48,3 +48,8 @@ Estoy estudiando **Ingeniería en Computación** en la universidad de la UNAM. E
 - [Instagram](https://www.instagram.com/_rodrigogo._?utm_source=qr&igsh=MTRoMThxbWluZDR4OQ==) -
 
 CHAOOO ;)
+## 💻 Mis Habilidades
+
+- **Lenguajes de programación**: Python, C++, JavaScript
+- **Herramientas de desarrollo**: Git, Docker, Visual Studio Code
+- **Áreas de interés**: Inteligencia Artificial, Desarrollo Web, Diseño Gráfico
