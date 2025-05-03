@@ -36,3 +36,7 @@ Me encanta disfrutar de **caricaturas y shows animados**. Ma favoritas son:
 |------------------------------------|--------------------------------|----------------------|
 | *Pardaillan*                       | Miguel de Zévaco               | Novela histórica     |
 | *Cien años de soledad*             | Gabriel García Márquez         | Realismo mágico      |
+| Película                          | Director                      | Género               |
+|------------------------------------|--------------------------------|----------------------|
+| *Inception*                        | Christopher Nolan              | Ciencia ficción      |
+| *The Matrix*                       | The Wachowskis                 | Ciencia ficción      |
