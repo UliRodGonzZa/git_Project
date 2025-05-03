@@ -48,3 +48,7 @@ Me encanta disfrutar de **caricaturas y shows animados**. Ma favoritas son:
 |------------------------------------|--------------------------------|----------------------|
 | *Gears of War*                     | Epic Games                    | Shooter, Acción      |
 | *The Witcher 3*                    | CD Projekt Red                | RPG, Aventura        |
+| Género                           | Ejemplo                       | Autor                |
+|------------------------------------|--------------------------------|----------------------|
+| *Fantasía*                         | *El Señor de los Anillos*     | J.R.R. Tolkien       |
+| *Realismo Mágico*                  | *Cien años de soledad*         | Gabriel García Márquez |
