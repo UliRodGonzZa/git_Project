@@ -32,3 +32,7 @@ Me encanta disfrutar de **caricaturas y shows animados**. Ma favoritas son:
 
 ---
 # Clasificación
+| Título                             | Autor                          | Género               |
+|------------------------------------|--------------------------------|----------------------|
+| *Pardaillan*                       | Miguel de Zévaco               | Novela histórica     |
+| *Cien años de soledad*             | Gabriel García Márquez         | Realismo mágico      |
