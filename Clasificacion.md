@@ -40,3 +40,7 @@ Me encanta disfrutar de **caricaturas y shows animados**. Ma favoritas son:
 |------------------------------------|--------------------------------|----------------------|
 | *Inception*                        | Christopher Nolan              | Ciencia ficción      |
 | *The Matrix*                       | The Wachowskis                 | Ciencia ficción      |
+| Artista                          | Álbum                          | Género               |
+|------------------------------------|--------------------------------|----------------------|
+| *Daft Punk*                        | *Random Access Memories*       | Electrónica          |
+| *The Beatles*                      | *Abbey Road*                   | Rock                 |
