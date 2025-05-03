@@ -29,5 +29,5 @@ Las imágenes relacionadas con los proyectos se encuentran en la carpeta **`/Ima
 Para clonar el repositorio en tu máquina local, usa el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone  git@github.com:UliRodGonzZa/git_Project.git
 ```
